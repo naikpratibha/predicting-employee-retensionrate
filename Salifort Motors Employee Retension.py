@@ -78,7 +78,7 @@ from xgboost import XGBClassifier
 
 # Load dataset into a dataframe
 ### YOUR CODE HERE ###
-df0 = pd.read_csv("HR_capstone_dataset.csv")
+df0 = pd.read_csv("data/HR_capstone_dataset.csv")
 
 
 # Display first few rows of the dataframe
